@@ -10,3 +10,36 @@
 	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=1 ); /* IE6-9 */
 	text-shadow: 0px 0px 1px #000;
 }
+}
+.vertical-middle{
+	top: 45% !important;
+}
+
+.certificates img{
+	width: 100px;
+}
+
+.testimonials{
+	max-width: 700px;
+	margin-bottom: 5px !important;
+}
+
+.testimonials .social-icon{
+	
+}
+.vertical-middle{
+	top: 45% !important;
+}
+
+.certificates img{
+	width: 100px;
+}
+
+.testimonials{
+	max-width: 700px;
+	margin-bottom: 5px !important;
+}
+
+.testimonials .social-icon{
+	
+}
