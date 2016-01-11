@@ -43,3 +43,15 @@
 .testimonials .social-icon{
 	
 }
+
+.m-r-5{ margin-right: 5px; }
+.m-r-10{ margin-right: 10px; }
+.m-b-10{ margin-bottom: 10px; }
+.m-b-20{ margin-bottom: 20px; }
+
+.stockist{
+	list-style-type: none;
+	margin-bottom: 10px; 
+}
+
+h5{ font-size: 1.3em; }
