@@ -55,3 +55,7 @@
 }
 
 h5{ font-size: 1.3em; }
+.agents-container{ box-shadow: 1px 1px 3px #9f9f9f; margin-bottom: 15px; }
+.agents-container > div > div{ margin-bottom: 10px; }
+.agents-container > div > div div:first-child{ font-weight: bold; }
+.agents-container h5{ margin-top: 10px; }
